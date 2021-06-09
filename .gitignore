@@ -1,0 +1,3 @@
+allocate
+*.o
+processes.txt

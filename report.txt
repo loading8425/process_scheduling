@@ -1,0 +1,1 @@
+For this task, I decide whether process need to be parallel, calculate average time for all process to finish first, and compare to its remaining time if bigger than remaining time, then parallel, if not, then K=1.
